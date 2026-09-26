@@ -1,0 +1,18 @@
+{
+  "project_name": "MediTrace OS",
+  "description": "Smart Mobile Medical-Waste Collection, Computer-Vision Segregation & CPCB Compliance OS",
+  "version": "1.0.0",
+  "created_at": "2026-09-26",
+  "tech_stack": {
+    "framework": "Next.js 14 / React 18",
+    "language": "TypeScript",
+    "styling": "Vanilla CSS / Custom UI Design System + Glassmorphism",
+    "ai_engine": "Gemini 1.5 / 2.0 Flash Vision API",
+    "voice": "Web Speech API Synthesis (Multilingual English/Hindi)",
+    "digital_twin": "Simulated WebSockets / Real-time Cart State Machine"
+  },
+  "compliance_standards": [
+    "Bio-Medical Waste Management (BMWM) Rules 2016 (CPCB India)",
+    "NABH Hospital Environmental & Infection Control Standards"
+  ]
+}
