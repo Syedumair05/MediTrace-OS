@@ -3,7 +3,7 @@
 
 ![BMWM 2016 Compliant](https://img.shields.io/badge/Statutory_Standard-BMWM_2016_CPCB-06B6D4?style=for-the-badge)
 ![Gemini AI Vision](https://img.shields.io/badge/AI_Engine-Gemini_Multimodal_Vision-8B5CF6?style=for-the-badge)
-![Vernacular Audio](https://img.shields.io/badge/Audio_Directives-EN_%7C_HI_%7C_TE_ (తెలుగు)-10B981?style=for-the-badge)
+![Vernacular Audio](https://img.shields.io/badge/Audio_Directives-Trilingual_EN_HI_TE-10B981?style=for-the-badge)
 ![Next.js 14](https://img.shields.io/badge/Framework-Next.js_14_App_Router-000000?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript_5.4-3178C6?style=for-the-badge)
 
